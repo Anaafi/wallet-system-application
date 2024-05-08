@@ -1,0 +1,23 @@
+.primary {
+  padding: 12px 24px;
+  background-color: var(--blue, #1f6aec);
+  width: 167px;
+  color: white;
+  border-radius: 8px;
+}
+
+.secondary {
+  padding: 12px 24px;
+  width: 167px;
+  border-radius: 8px;
+  border: solid 1px var(--primary);
+  color: var(--primary);
+}
+
+.tertiary {
+  padding: 12px 16px;
+  width: 92px;
+  border-radius: 4px;
+  border: 1px solid var(--n-100, #d7dce0);
+  background-color: var(--n-000, #fff);
+}

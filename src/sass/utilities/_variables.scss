@@ -1,0 +1,18 @@
+:root {
+  --primary: #1f6aec;
+  --blue-100: #f4f7fc;
+  --gray-100: #b3becf;
+  --gray-200: #6d7a98;
+  --gray-800: #0b2253;
+  --gray-1000: #8b95ab3d;
+  --gray-300: #d7dce0;
+  --blue-200: #2f2e80;
+  --red-100: #700f0f;
+  --green-100: #166a37;
+}
+
+*,
+*::before,
+*::after {
+  scroll-behavior: smooth;
+}
